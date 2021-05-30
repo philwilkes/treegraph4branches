@@ -1,0 +1,11 @@
+data_path: ../../data/ww_1361w.ply
+base_idx: null
+attribute: nbranch
+radius: m_radius
+verbose: false
+cluster_size: 0.04
+minpts: 5
+exponent: 2.0
+minbin: 0.04
+maxbin: 0.3
+output_path: ../../results/ww_1361w_v1.6/
